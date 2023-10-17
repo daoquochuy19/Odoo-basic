@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="seq_pet" model="ir.sequence">
+            <field name="name">Product Pet</field>
+            <field name="code">product.pet</field>
+            <field name="prefix">ST</field>
+            <field name="padding">5</field>
+            <field name="company_id" eval="False"/>
+        </record>
+</odoo>
