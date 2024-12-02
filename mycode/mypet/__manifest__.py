@@ -1,5 +1,5 @@
 {
-    'name':"Cat",
+    'name':"Cat1",
     'summary':"""My pet model""",
     'description':"""Managing pet information""",
     'author':"quochuy",
